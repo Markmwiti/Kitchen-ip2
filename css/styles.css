@@ -1,0 +1,67 @@
+.logo{
+   margin:auto;
+   text-align: center;
+   background-image: url("../img/landing.jpg");
+   padding-bottom: 100px;
+}
+.logo > p{
+ font-size: 20px;
+}.col-md-7{
+background-image: url("../img/subscribe.jpg");padding-right: 1000px;
+padding-top: 50px;
+}.col-md-3{
+ float:right;
+ text-align: left;
+}.col-md-5{
+ font-size: 20px;
+ float: right;
+ text-align: left;
+}.row{
+ float:left;}h2{
+ text-align: left;
+}h3{
+ text-align: left;
+}
+.row2{
+ float: right;
+ text-align: left;
+}
+.hour{
+ font-size: 30px;
+ background-color: grey;
+}
+.time{
+ background-color: #fa5411
+;
+ background-position:left;
+ font-size: 30px;
+ color: white;}.p{
+ float: left;
+}.bac{
+ background-image: url("../img/foodsBg.jpg");}.drink1{
+ float: right;
+}
+h4{
+ text-align: justify;
+ font-weight: bold;
+ font-size: 35px;}h5{
+ font-size: 20px;
+ text-align: left;
+}
+.col-md-4{
+ font-size: 15px;
+ text-align: left;
+}.sidebar{
+ width: 66%;
+ float: right;
+}body{
+ max-width: 100%;
+}
+.log{}
+h7{
+ text-align: left;
+}
+h8{
+font-size: 10px;
+ color: white;
+}
